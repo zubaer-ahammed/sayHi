@@ -1,0 +1,8 @@
+{
+    "name": "sayHi",
+    "version": "1.0.0",
+    "main": "./sayhi.js",
+    "dependencies": {
+        "jquery": "latest"
+    }
+}
